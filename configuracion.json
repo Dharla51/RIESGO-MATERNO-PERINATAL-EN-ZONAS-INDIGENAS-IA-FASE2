@@ -1,0 +1,7 @@
+{
+    "riesgo_mlp_umbral_alto": 0.25,
+    "desenlace_logistica_umbral": 0.3,
+    "desenlace_mlp_umbral": 0.5,
+    "tipo_datos": "simulados",
+    "validacion_clinica": false
+}
