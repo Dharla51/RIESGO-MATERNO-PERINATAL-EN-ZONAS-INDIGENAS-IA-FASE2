@@ -1,0 +1,36 @@
+﻿Experimento,Modelo,Metrica,Valor
+Nivel de riesgo,Dummy,Accuracy,0.6784140969162996
+Nivel de riesgo,Regresión Logística,Accuracy,0.6035242290748899
+Nivel de riesgo,SVM optimizado,Accuracy,0.6035242290748899
+Nivel de riesgo,Red neuronal MLP,Accuracy,0.6475770925110133
+Nivel de riesgo,MLP umbral 0.25,Accuracy,0.6079295154185022
+Nivel de riesgo,Dummy,F1-macro,0.2694663167104112
+Nivel de riesgo,Regresión Logística,F1-macro,0.4759738671697586
+Nivel de riesgo,SVM optimizado,F1-macro,0.45998031524347316
+Nivel de riesgo,Red neuronal MLP,F1-macro,0.5230226063751277
+Nivel de riesgo,MLP umbral 0.25,F1-macro,0.4677678675684658
+Nivel de riesgo,Dummy,Recall Alto,0.0
+Nivel de riesgo,Regresión Logística,Recall Alto,0.5652173913043478
+Nivel de riesgo,SVM optimizado,Recall Alto,0.30434782608695654
+Nivel de riesgo,Red neuronal MLP,Recall Alto,0.5217391304347826
+Nivel de riesgo,MLP umbral 0.25,Recall Alto,0.6086956521739131
+Nivel de riesgo,Dummy,Precision Alto,0.0
+Nivel de riesgo,Regresión Logística,Precision Alto,0.2765957446808511
+Nivel de riesgo,SVM optimizado,Precision Alto,0.3333333333333333
+Nivel de riesgo,Red neuronal MLP,Precision Alto,0.41379310344827586
+Nivel de riesgo,MLP umbral 0.25,Precision Alto,0.27450980392156865
+Desenlace adverso,Regresión Logística (0.30),Accuracy,0.6960352422907489
+Desenlace adverso,Red Neuronal MLP (0.50),Accuracy,0.8986784140969163
+Desenlace adverso,SVM original,Accuracy,0.9074889867841409
+Desenlace adverso,Regresión Logística (0.30),F1 adverso,0.2736842105263158
+Desenlace adverso,Red Neuronal MLP (0.50),F1 adverso,0.3783783783783784
+Desenlace adverso,SVM original,F1 adverso,0.27586206896551724
+Desenlace adverso,Regresión Logística (0.30),Recall adverso,1.0
+Desenlace adverso,Red Neuronal MLP (0.50),Recall adverso,0.5384615384615384
+Desenlace adverso,SVM original,Recall adverso,0.3076923076923077
+Desenlace adverso,Regresión Logística (0.30),Precision adverso,0.15853658536585366
+Desenlace adverso,Red Neuronal MLP (0.50),Precision adverso,0.2916666666666667
+Desenlace adverso,SVM original,Precision adverso,0.25
+Desenlace adverso,Regresión Logística (0.30),Average Precision,0.34822261330277715
+Desenlace adverso,Red Neuronal MLP (0.50),Average Precision,0.2764635625679922
+Desenlace adverso,SVM original,Average Precision,0.24891481435302729
